@@ -16,5 +16,6 @@
   <author href="https://build.phonegap.com" email="livefarhan1@gmail.com">
       Rafay
   </author>
+   <plugin name="cordova-plugin-camera" source="npm" />
 
 </widget>
